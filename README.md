@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Kristjan</h1>
 
-#  About Me:
+# 🎓 About Me:
 I am a third-year IT Systems Development student at Taltech University.
 
 # 💻 Tech Stack:
