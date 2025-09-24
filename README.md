@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Kristjan</h1>
 
 # 🎓 About Me:
-I am a third-year IT Systems Development student at Taltech University.
+I am a third-year IT Systems Development student at Tallinn University of Technology.
 
 # 💻 Tech Stack:
 Languages: 
