@@ -7,8 +7,8 @@ I am particularly interested in full-stack and backend development and enjoy sol
 
 Currently looking for a software development internship where I can contribute to meaningful projects and grow as a developer.
 
-# 🌐 Connect with me
-[LinkedIn](https://linkedin.com/in/krlaan)
+## 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krlaan)
 
 # 💻 Tech Stack:
 Languages: 
