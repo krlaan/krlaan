@@ -17,6 +17,6 @@ Currently looking for a software development internship where I can contribute t
 
 **Databases:** MySQL, SQLite, Oracle, PostgreSQL
 
-**Frameworks::** Spring Boot, React, Vue, Flutter
+**Frameworks:** Spring Boot, React, Vue, Flutter
 
 **Developer Tools:** Git, Postman, Firebase, Supabase
