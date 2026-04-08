@@ -15,7 +15,7 @@ Currently looking for a software development internship where I can contribute t
 
 **Web Development:** JavaScript, TypeScript, HTML, CSS
 
-**Databases:** MySQL, SQLite, Oracle, PostgreSQL
+**Databases:** PostgreSQL, MySQL, SQLite, Oracle
 
 **Frameworks:** Spring Boot, React, Vue, Flutter
 
