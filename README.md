@@ -5,8 +5,6 @@ I am a third-year IT Systems Development student at Tallinn University of Techno
 
 I am particularly interested in full-stack and backend development and enjoy solving real-world problems through code.
 
-Currently looking for a software development internship where I can contribute to meaningful projects and grow as a developer.
-
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krlaan)
 
