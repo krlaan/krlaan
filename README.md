@@ -9,12 +9,12 @@ I am particularly interested in full-stack and backend development and enjoy sol
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krlaan)
 
 # 💻 Tech Stack:
-**Languages:** Java, C#, Python, PHP, Dart
+**Languages:** Java, Python, C#, PHP
 
 **Web Development:** JavaScript, TypeScript, HTML, CSS
 
 **Databases:** PostgreSQL, MySQL, SQLite, Oracle
 
-**Frameworks:** Spring Boot, React, Vue, Flutter
+**Frameworks:** Spring Boot, React, Vue
 
 **Developer Tools:** Git, Postman, Firebase, Supabase
