@@ -3,8 +3,6 @@
 # 🎓 About Me:
 I am an IT Systems Development graduate from Tallinn University of Technology with an interest in software and web development. I have hands-on experience with Java, Python, React, TypeScript, and SQL through university projects, personal projects, and practical software development experience.
 
-I am currently a Software Developer Intern at the Centre of Registers and Information Systems (RIK), where I contribute to the development of the Estonian Business Register by developing full-stack features, migrating system integrations, and improving existing software solutions.
-
 I am particularly interested in full-stack and backend development and enjoy solving real-world problems through code.
 
 ## 🌐 Connect with me:
