@@ -17,4 +17,4 @@ I am particularly interested in full-stack and backend development and enjoy sol
 
 **Frameworks:** Spring Boot, React, Vue
 
-**Developer Tools:** Git, Postman, Firebase, Supabase
+**Developer Tools:** Git, Postman, Jira, Confluence
