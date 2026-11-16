@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋 I'm Kristjan</h1>
 
 # 🎓 About Me:
-I am an IT Systems Development graduate from Tallinn University of Technology with an interest in software and web development. I have hands-on experience with Java, Python, React, TypeScript, and SQL through university projects, personal projects, and practical software development experience.
+Software Developer with hands-on experience in full-stack and backend development.
 
-I am particularly interested in full-stack and backend development and enjoy solving real-world problems through code.
+Previously worked as a Software Developer Intern at RIK, contributing to the development of the Estonian Business Register.
+
+Passionate about software engineering, backend development, and exploring AI-powered solutions.
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krlaan)
