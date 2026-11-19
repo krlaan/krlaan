@@ -3,7 +3,7 @@
 # 🎓 About Me:
 Software Developer with hands-on experience in full-stack and backend development.
 
-Previously worked as a Software Developer Intern at RIK, contributing to the development of the Estonian Business Register.
+Currently working as a Software Developer Intern at Silverwise, developing backend solutions.
 
 Passionate about software engineering, backend development, and exploring AI-powered solutions.
 
